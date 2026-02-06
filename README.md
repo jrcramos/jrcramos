@@ -86,7 +86,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 - **Ramos J.R.C., Pinto J., Oliveira G.P., Peeters L., Dumas P., Oliveira R.** (2022) [Deep hybrid modeling of a HEK293 process: combining LSTM networks with first principles](https://doi.org/10.1002/bit.28668) - *Biotechnology and Bioengineering*
 
-### 2022 (continued)
 - **Ramos J.R.C., Bissinger T., Genzel Y., Reichl U.** (2022) [Impact of Influenza A Virus Infection on Growth and Metabolism of Suspension MDCK Cells](http://dx.doi.org/10.3390/metabo12030239) - *Metabolites*
 
 ### 2020
