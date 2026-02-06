@@ -71,7 +71,7 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 **2021-2025: Research Assistant** | *Nova University of Lisbon*
 - SILICOMEDIA project with GlaxoSmithKline Belgium
-- 
+
 **2015-2020: Doctoral Research** | *Max Planck Institute for Dynamics of Complex Technical Systems, Germany*
 - PhD: "Modeling the Dynamics of Cell Growth, Central Carbon Metabolism and Virus Production in Animal Cells"
 
