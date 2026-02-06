@@ -1,11 +1,11 @@
-# 💫 Hi there, I'm João Rodrigues Correia Ramos, PhD! 👋
+# 💫 João Rodrigues Correia Ramos, Dr.-Ing.
 
 👨‍🔬 **Bioprocess Engineer | Computational Biologist | Hybrid Modeling Specialist** <br>
 🧬 Postdoctoral Researcher at Universitätsklinikum Freiburg, specializing in mathematical modeling. <br>
 🔬 Expert in **hybrid deep modeling, systems biology, and bioprocess optimization**. <br>
 🚀 Bridging biology, data science, and AI to decode and optimize life at the cellular level. <br>
 🌱 Born on a farm in Cape Verde, trained across Portugal and Germany. <br>
-📫 Reach me via my [portfolio](https://sites.google.com/view/joaorcramos) | 🏢 Co-founder of [Levacells](https://levacells.com/)
+📫 Reach me via my [portfolio](https://sites.google.com/view/joaorcramos) | 🏢 Spin-off contribution [Levacells](https://levacells.com/)
 
 ## 💡 About Me  
 
