@@ -75,13 +75,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 **2015-2020: Doctoral Research** | *Max Planck Institute for Dynamics of Complex Technical Systems, Germany*
 - PhD: "Modeling the Dynamics of Cell Growth, Central Carbon Metabolism and Virus Production in Animal Cells"
 
-# 🏆 Awards & Talks
-### Awards & Recognition
-- 🏆 **2022:** Best Paper Award ([Bioprocess and Biosystems Engineering](https://doi.org/10.1007/s00449-022-02795-9))
-- 🏆 **2017:** ESACT Award "This is how we innovate"
-- 🎓 **2015:** Vice Representative of International Max Planck Research School (IMPRS) students
-- 🎓 **2013-2015:** Scholarship from Fundação Lapa Dos Lobos
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jrcramos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
