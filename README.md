@@ -39,7 +39,7 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 # 📚 Research Papers
 
-- **Agharafeie R., Ramos J.R.C., Oliveira R., Mendes J.M.** (2024) [Application of Hybrid Models in Biopharmaceutical Manufacturing](https://doi.org/10.1002/cite.202255039) - *Chemie Ingenieur Technik*
+- **Agharafeie R., Ramos J.R.C., Oliveira R., Mendes J.M.** (2022) [Application of Hybrid Models in Biopharmaceutical Manufacturing](https://doi.org/10.1002/cite.202255039) - *Chemie Ingenieur Technik*
 
 - **Agharafeie R., Ramos J.R.C., Mendes J.M., Oliveira R.** (2023) [From Shallow to Deep Bioprocess Hybrid Modeling: Advances and Future Perspectives](https://doi.org/10.3390/fermentation9100922) - *Fermentation*
 
@@ -55,14 +55,14 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 - **Pinto J., Mestre M., Ramos J.R.C., Costa R.S., Striedner G., Oliveira R.** (2022) [A General Deep Hybrid Model for Bioreactor Systems](https://doi.org/10.1016/j.compchemeng.2022.107952) - *Computers & Chemical Engineering*
 
-- **Ramos J.R.C., Pinto J., Oliveira G.P., Peeters L., Dumas P., Oliveira R.** (2022) [Deep hybrid modeling of a HEK293 process: combining LSTM networks with first principles](https://doi.org/10.1002/bit.28668) - *Biotechnology and Bioengineering*
+- **Ramos J.R.C., Pinto J., Oliveira G.P., Peeters L., Dumas P., Oliveira R.** (2024) [Deep hybrid modeling of a HEK293 process: combining LSTM networks with first principles](https://doi.org/10.1002/bit.28668) - *Biotechnology and Bioengineering*
 
 - **Ramos J.R.C., Bissinger T., Genzel Y., Reichl U.** (2022) [Impact of Influenza A Virus Infection on Growth and Metabolism of Suspension MDCK Cells](http://dx.doi.org/10.3390/metabo12030239) - *Metabolites*
 
 - **Ramos J.R.C., Rath A.G., Genzel Y., Sandig V., Reichl U.** (2020) [A dynamic model linking cell growth to intracellular metabolism and extracellular by-product accumulation](http://dx.doi.org/10.1002/bit.27288) - *Biotechnology and Bioengineering*
 
 ### Book Chapters
-- **Pinto J., Antunes J., Ramos J.R.C., Costa R.S., Oliveira R.** [Modeling and optimization of bioreactor processes](http://dx.doi.org/10.1016/B978-0-323-91167-2.00016-2) - *Current Developments in Biotechnology and Bioengineering*
+- **Pinto J., Antunes J., Ramos J.R.C., Costa R.S., Oliveira R.** (2022) [Modeling and optimization of bioreactor processes](http://dx.doi.org/10.1016/B978-0-323-91167-2.00016-2) - *Current Developments in Biotechnology and Bioengineering*
 
 
 # 🎓 Education & Experience
