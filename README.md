@@ -25,7 +25,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 | 👥 Audience | 🔗 Sections | 📌 Description |
 |-------------|-------------|----------------|
 | 🧑‍💼 Researchers & Collaborators | [Research Papers](#-research-papers) | Publications in bioprocess engineering and computational biology |
-| 💻 Developers | [Software & Tools](#-software--tools) | MATLAB and Python implementations of models |
 | 📊 Academic Community | [Education & Experience](#-education--experience) | Academic background and research positions |
 | 🏆 Achievements | [Awards & Talks](#-awards--talks) | Recognition and conference presentations |
 
@@ -37,32 +36,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 [![Levacells](https://img.shields.io/badge/Spin--off-Levacells-00A86B?style=flat&logo=rocket&logoColor=white)](https://levacells.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrcramos)
 
-# 💻 Tech Stack:
-
-## Core Competencies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-## Data Science & Analysis
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-
-## Systems Biology & Modeling
-![SBML](https://img.shields.io/badge/SBML-Systems%20Biology-blue?style=for-the-badge)
-![ODE](https://img.shields.io/badge/ODE-Differential%20Equations-orange?style=for-the-badge)
-![FBA](https://img.shields.io/badge/FBA-Flux%20Balance%20Analysis-green?style=for-the-badge)
-
-## Development Tools
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📚 Research Papers
 
