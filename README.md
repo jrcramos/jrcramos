@@ -39,7 +39,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 # 📚 Research Papers
 
-### 2023-2024
 - **Agharafeie R., Ramos J.R.C., Oliveira R., Mendes J.M.** (2024) [Application of Hybrid Models in Biopharmaceutical Manufacturing](https://doi.org/10.1002/cite.202255039) - *Chemie Ingenieur Technik*
 
 - **Agharafeie R., Ramos J.R.C., Mendes J.M., Oliveira R.** (2023) [From Shallow to Deep Bioprocess Hybrid Modeling: Advances and Future Perspectives](https://doi.org/10.3390/fermentation9100922) - *Fermentation*
@@ -52,7 +51,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 - **Pinto J., Costa R.S., Alexandre L., Ramos J.R.C., Oliveira R.** (2023) [SBML2HYB: a Python interface for SBML compatible hybrid modelling](https://doi.org/10.1093/bioinformatics/btad044) - *Bioinformatics*
 
-### 2022
 - **Ramos J.R.C., Oliveira G.P., Dumas P., Oliveira R.** (2022) [Genome-scale modeling of Chinese hamster ovary cells by hybrid semi-parametric flux balance analysis](https://doi.org/10.1007/s00449-022-02795-9) - *Bioprocess and Biosystems Engineering* 🏆 **Best Paper Award 2022**
 
 - **Pinto J., Mestre M., Ramos J.R.C., Costa R.S., Striedner G., Oliveira R.** (2022) [A General Deep Hybrid Model for Bioreactor Systems](https://doi.org/10.1016/j.compchemeng.2022.107952) - *Computers & Chemical Engineering*
@@ -61,7 +59,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 - **Ramos J.R.C., Bissinger T., Genzel Y., Reichl U.** (2022) [Impact of Influenza A Virus Infection on Growth and Metabolism of Suspension MDCK Cells](http://dx.doi.org/10.3390/metabo12030239) - *Metabolites*
 
-### 2020
 - **Ramos J.R.C., Rath A.G., Genzel Y., Sandig V., Reichl U.** (2020) [A dynamic model linking cell growth to intracellular metabolism and extracellular by-product accumulation](http://dx.doi.org/10.1002/bit.27288) - *Biotechnology and Bioengineering*
 
 ### Book Chapters
