@@ -29,7 +29,7 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 | 🏆 Achievements | [Awards & Talks](#-awards--talks) | Recognition and conference presentations |
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jrcramos) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-ramos-18144769/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FwOLMkoAAAAJ) 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)]([https://orcid.org/YOUR_ORCID](https://orcid.org/0000-0002-6832-6774))
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=google&logoColor=white)](https://www.jrcramos.site/)
