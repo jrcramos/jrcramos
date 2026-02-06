@@ -21,13 +21,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 **Outside the lab:** Programming (web bots, bitcoin prediction models), watching series and anime, MTB riding, camping, nature walks, reading philosophy (stoicism), and finding peace in the garden. Music is my constant companion — even while working! 🎵
 
-## 🗺️ Navigation
-| 👥 Audience | 🔗 Sections | 📌 Description |
-|-------------|-------------|----------------|
-| 🧑‍💼 Researchers & Collaborators | [Research Papers](#-research-papers) | Publications in bioprocess engineering and computational biology |
-| 📊 Academic Community | [Education & Experience](#-education--experience) | Academic background and research positions |
-| 🏆 Achievements | [Awards & Talks](#-awards--talks) | Recognition and conference presentations |
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-ramos-18144769/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FwOLMkoAAAAJ) 
@@ -78,26 +71,17 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 **2021-2025: Research Assistant** | *Nova University of Lisbon*
 - SILICOMEDIA project with GlaxoSmithKline Belgium
-- Developed hybrid genome-scale models of CHO cells (>50% productivity gains)
-- Applied metabolic and AI-based modeling for recombinant protein production
-
+- 
 **2015-2020: Doctoral Research** | *Max Planck Institute for Dynamics of Complex Technical Systems, Germany*
 - PhD: "Modeling the Dynamics of Cell Growth, Central Carbon Metabolism and Virus Production in Animal Cells"
-- Supervised by Prof. Dr. Udo Reichl and Dr. Yvonne Genzel
-- Designed dynamic models for mammalian cell growth, virus infection, and metabolism
 
 # 🏆 Awards & Talks
-
 ### Awards & Recognition
 - 🏆 **2022:** Best Paper Award ([Bioprocess and Biosystems Engineering](https://doi.org/10.1007/s00449-022-02795-9))
 - 🏆 **2017:** ESACT Award "This is how we innovate"
 - 🎓 **2015:** Vice Representative of International Max Planck Research School (IMPRS) students
 - 🎓 **2013-2015:** Scholarship from Fundação Lapa Dos Lobos
 
-### Selected Talks
-- **2023:** Hybrid Flux Balance Analysis - Metabolic Pathway Analysis 9th, Seoul, South Korea
-- **2023:** Genome-scale hybrid modeling - Hybrid Modeling Summer School 5th, Lisbon, Portugal
-- **2020:** Dynamic model for MDCK cells - Society of Mathematical Biology Annual Meeting
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jrcramos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
