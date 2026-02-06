@@ -91,9 +91,10 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 - **Ramos J.R.C., Pinto J., Oliveira G.P., Peeters L., Dumas P., Oliveira R.** (2022) [Deep hybrid modeling of a HEK293 process: combining LSTM networks with first principles](https://doi.org/10.1002/bit.28668) - *Biotechnology and Bioengineering*
 
-### 2020-2021
+### 2022 (continued)
 - **Ramos J.R.C., Bissinger T., Genzel Y., Reichl U.** (2022) [Impact of Influenza A Virus Infection on Growth and Metabolism of Suspension MDCK Cells](http://dx.doi.org/10.3390/metabo12030239) - *Metabolites*
 
+### 2020
 - **Ramos J.R.C., Rath A.G., Genzel Y., Sandig V., Reichl U.** (2020) [A dynamic model linking cell growth to intracellular metabolism and extracellular by-product accumulation](http://dx.doi.org/10.1002/bit.27288) - *Biotechnology and Bioengineering*
 
 ### Book Chapters
@@ -101,16 +102,18 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 # 💾 Software & Tools
 
+> Software implementations available upon request. Contact me for access to specific models and tools.
+
 ### MATLAB Implementations
-- **Demo 1:** [Mechanistic Dynamic Model of Growth and Central Carbon Metabolism of AGE1.HN Cells](https://github.com/jrcramos) (33 states, ODEs)
-- **Demo 2:** [Dynamic Model of Growth, Metabolism & Influenza A Virus Production in MDCK Cells](https://github.com/jrcramos) (35 states, ODEs)
-- **Demo 3:** [CHO Hybrid Semi-Parametric Flux Balance Analysis (HybridFBA)](https://github.com/jrcramos)
-- **Demo 5:** [HYBMOD Toolbox for Hybrid Modeling](https://github.com/jrcramos) (SBML to hybrid model)
-- **Demo 6:** [HYBMOD for Bioreactor Experiments](https://github.com/jrcramos) (Neural networks + first principles)
-- **Demo 7:** [HYBMOD with LSTM](https://github.com/jrcramos) (LSTM + first principles)
+- **Demo 1:** Mechanistic Dynamic Model of Growth and Central Carbon Metabolism of AGE1.HN Cells (33 states, ODEs)
+- **Demo 2:** Dynamic Model of Growth, Metabolism & Influenza A Virus Production in MDCK Cells (35 states, ODEs)
+- **Demo 3:** CHO Hybrid Semi-Parametric Flux Balance Analysis (HybridFBA)
+- **Demo 5:** HYBMOD Toolbox for Hybrid Modeling (SBML to hybrid model)
+- **Demo 6:** HYBMOD for Bioreactor Experiments (Neural networks + first principles)
+- **Demo 7:** HYBMOD with LSTM (LSTM + first principles)
 
 ### Python Implementations
-- **Demo 4:** [SBML2HYB](https://github.com/jrcramos) - SBML to hybrid model converter in Python
+- **Demo 4:** SBML2HYB - SBML to hybrid model converter in Python
 
 # 🎓 Education & Experience
 
