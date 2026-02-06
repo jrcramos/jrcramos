@@ -22,7 +22,7 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 **Outside the lab:** Programming (web bots, bitcoin prediction models), watching series and anime, MTB riding, camping, nature walks, reading philosophy (stoicism), and finding peace in the garden. Music is my constant companion — even while working! 🎵
 
 ## 🗺️ Navigation
-| �� Audience | 🔗 Sections | 📌 Description |
+| 👥 Audience | 🔗 Sections | 📌 Description |
 |-------------|-------------|----------------|
 | 🧑‍💼 Researchers & Collaborators | [Research Papers](#-research-papers) | Publications in bioprocess engineering and computational biology |
 | 💻 Developers | [Software & Tools](#-software--tools) | MATLAB and Python implementations of models |
@@ -100,20 +100,6 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 ### Book Chapters
 - **Pinto J., Antunes J., Ramos J.R.C., Costa R.S., Oliveira R.** [Modeling and optimization of bioreactor processes](http://dx.doi.org/10.1016/B978-0-323-91167-2.00016-2) - *Current Developments in Biotechnology and Bioengineering*
 
-# 💾 Software & Tools
-
-> Software implementations available upon request. Contact me for access to specific models and tools.
-
-### MATLAB Implementations
-- **Demo 1:** Mechanistic Dynamic Model of Growth and Central Carbon Metabolism of AGE1.HN Cells (33 states, ODEs)
-- **Demo 2:** Dynamic Model of Growth, Metabolism & Influenza A Virus Production in MDCK Cells (35 states, ODEs)
-- **Demo 3:** CHO Hybrid Semi-Parametric Flux Balance Analysis (HybridFBA)
-- **Demo 5:** HYBMOD Toolbox for Hybrid Modeling (SBML to hybrid model)
-- **Demo 6:** HYBMOD for Bioreactor Experiments (Neural networks + first principles)
-- **Demo 7:** HYBMOD with LSTM (LSTM + first principles)
-
-### Python Implementations
-- **Demo 4:** SBML2HYB - SBML to hybrid model converter in Python
 
 # 🎓 Education & Experience
 
