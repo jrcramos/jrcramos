@@ -65,7 +65,7 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 - **2013** - BSc. in Biotechnology, *Évora University, Portugal*
 
 ### Work Experience
-**2026-Present: Postdoctoral Researcher** | *Universitätsklinikum Freiburg*
+**2026-Present: Postdoctoral Researcher** | *University Freiburg Clinical Center*
 - Mathematical modeling of biological systems
 
 **2021-2025: Research Assistant** | *Nova University of Lisbon*
