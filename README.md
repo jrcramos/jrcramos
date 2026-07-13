@@ -19,7 +19,7 @@ As a bioprocess engineer and computational biologist, my work sits at the **inte
 
 > *"Engineering is not just about precision — it's also about care, consciousness, and designing for what truly matters."*
 
-**Outside the lab:** Programming (web bots, bitcoin prediction models), watching series and anime, MTB riding, camping, nature walks, reading philosophy (stoicism), and finding peace in the garden. Music is my constant companion — even while working! 🎵
+**Outside the lab:** I am a digital "nerd" building automation tools leveraging math, programing and AI,  such as making websites, automation bots, and quantitative finantial models. To disconnect, I  read, focus on distance running, games, and working on our mini farm tending to the garden, chickens, and goats. Music is the constant backdrop to both my work and life — even while working! 🎵
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-ramos-18144769/) 
