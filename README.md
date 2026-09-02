@@ -1,4 +1,4 @@
-# 💫 João Rodrigues Correia Ramos, Dr.-Ing.
+# João Rodrigues Correia Ramos, Dr.-Ing.
 
 👨‍🔬 **Bioprocess Engineer | Computational Biologist | Hybrid Modeling Specialist** <br>
 🧬 Postdoctoral Researcher at Universitätsklinikum Freiburg, specializing in mathematical modeling. <br>
